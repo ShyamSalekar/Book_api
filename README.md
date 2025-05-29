@@ -50,4 +50,4 @@ This API allows you to perform basic CRUD operations (Create, Read, Update, Dele
 
 ## 🙋‍♂️ Author
 Shyam Jayram Salekar
-B.Tech CSE | Intern at Elevate Labs
+B.Tech CSE | during internship at Elevate Labs
